@@ -1,0 +1,18 @@
+{
+  "name": "demoblaze-cart-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "description": "Playwright autotest: Samsung galaxy s6 add to cart on demoblaze.com",
+  "devDependencies": {
+    "@playwright/test": "^1.64.1"
+  }
+}
